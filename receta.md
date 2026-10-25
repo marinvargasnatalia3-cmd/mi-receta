@@ -8,3 +8,11 @@ Nombre del plato: ...
 - Sal y comino al gusto
 ## Tiempo de preparación
 45 minutos
+## Pasos de preparación
+
+1. Lavar y picar las verduras.
+2. Cocinar el pollo en agua con sal y condimentos.
+3. Desmenuzar el pollo y reservar el caldo.
+4. Sofreír las verduras en una olla con un poco de aceite.
+5. Agregar el arroz, el pollo y el caldo.
+6. Cocinar hasta que el arroz esté listo y servir caliente.
