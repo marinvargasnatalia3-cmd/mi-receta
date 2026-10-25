@@ -16,3 +16,9 @@ Nombre del plato: ...
 4. Sofreír las verduras en una olla con un poco de aceite.
 5. Agregar el arroz, el pollo y el caldo.
 6. Cocinar hasta que el arroz esté listo y servir caliente.
+## Ingredientes opcionales
+
+- Arvejas.
+- Maíz.
+- Cilantro fresco.
+- Habichuelas.
