@@ -6,3 +6,5 @@ Nombre del plato: ...
 - 1 pechuga de pollo
 - Zanahoria, arveja y cebolla
 - Sal y comino al gusto
+## Tiempo de preparación
+45 minutos
