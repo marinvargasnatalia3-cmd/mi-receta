@@ -25,3 +25,5 @@ Nombre del plato: ...
 ## Consejo final
 
 Para que el arroz con pollo quede más sabroso, utiliza el caldo donde cocinaste el pollo para preparar el arroz. También puedes agregar cilantro fresco al final para darle un mejor aroma y sabor.
+
+Hecho por Nata Marín
