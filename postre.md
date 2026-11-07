@@ -20,3 +20,9 @@
 
 ## Resultado
 Un delicioso postre frío, cremoso y fácil de preparar.
+## Información adicional
+
+- Tiempo de preparación: 15 minutos.
+- Tiempo de refrigeración: 2 horas.
+- Porciones: 4 personas.
+- Dificultad: Fácil.
