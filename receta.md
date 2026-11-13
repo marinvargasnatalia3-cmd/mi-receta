@@ -1,7 +1,4 @@
-
-# Receta tradicional de mi familia
-
-# La mejor receta del mundo
+# La mejor receta tradicional de mi familia
 
 
 Nombre del plato: ...
