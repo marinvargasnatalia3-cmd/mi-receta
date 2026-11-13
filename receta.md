@@ -1,4 +1,4 @@
-# Receta editada desde mi computador
+# Receta editada desde mi computador y GitHub
 
 
 Nombre del plato: ...

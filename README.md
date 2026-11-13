@@ -1,4 +1,4 @@
-# Mi receta
+# Receta editada desde GitHub
 
 Proyecto donde practiqué los comandos básicos de Git: init, add, commit y log.
 
