@@ -1,4 +1,4 @@
-# Mi receta favorita
+# La mejor receta del mundo
 
 Nombre del plato: ...
 ## Ingredientes
