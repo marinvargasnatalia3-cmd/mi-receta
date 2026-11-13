@@ -1,4 +1,4 @@
-# La mejor receta tradicional de mi familia
+# Receta editada desde GitHub
 
 
 Nombre del plato: ...
