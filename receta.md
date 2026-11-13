@@ -1,4 +1,4 @@
-# Mi receta favorita
+# Receta tradicional de mi familia
 
 Nombre del plato: ...
 ## Ingredientes
