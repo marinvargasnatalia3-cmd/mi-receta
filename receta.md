@@ -1,7 +1,8 @@
 # Receta editada desde mi computador y GitHub
 
 
-Nombre del plato: ...
+Nombre del plato: Arroz con pollo
+
 ## Ingredientes
 - 2 tazas de arroz
 - 1 pechuga de pollo
@@ -19,12 +20,11 @@ Nombre del plato: ...
 6. Cocinar hasta que el arroz esté listo y servir caliente.
 ## Ingredientes opcionales
 
-- Arvejas.
 - Maíz.
 - Cilantro fresco.
 - Habichuelas.
 ## Consejo final
 
-Para que el arroz con pollo quede más sabroso, utiliza el caldo donde cocinaste el pollo para preparar el arroz. También puedes agregar cilantro fresco al final para darle un mejor aroma y sabor.
+Para que el arroz con pollo quede más sabroso, utiliza el caldo donde cocinaste el pollo para preparar el arroz. También puedes agregar cilantro fresco al final para darle un mejor aroma y sabor. Deja reposar el arroz durante 5 minutos antes de servirlo para que tenga una mejor textura.
 
 Hecho por Nata Marín
